@@ -1,2 +1,2 @@
-# DSW2023-Shop
-Tienda Virtual MVC
+# DSW2023-Tienda_Virtual
+Practica DSW UD 3
